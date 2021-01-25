@@ -1,5 +1,3 @@
 # ela
 
-## Architecture and production design
-
-![](loop.mp4)
+Architecture and production design
